@@ -1,0 +1,2 @@
+# stripemenu
+for debugging
